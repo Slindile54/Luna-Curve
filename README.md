@@ -67,6 +67,12 @@ Through this project, I explored how to combine front-end development with UI/UX
 - Improve accessibility and mobile responsiveness.
 - Add customer reviews and order tracking.
 
+  ## Prototype
+
+Figma Design:
+
+https://verify-door-28039742.figma.site/
+
 ## 👩🏽‍💻 Developer
 
 **Silindile Dlamini**
